@@ -3,5 +3,5 @@
 ################################################################################
 
 /parser/.vs/
-/parser/parser/bin/
-/parser/parser/obj/
+/parser/bin/
+/parser/obj/
